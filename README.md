@@ -1,24 +1,133 @@
-<h1 align="center">Hi 👋, I'm Aayansh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Aayansh Tarafdar</h1>
+<h3 align="center">Software Engineering Intern | Full-Stack Developer | Competitive Programmer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayannshh" alt="ayannshh" /></a> </p>
-
-- 📫 How to reach me **aayanshtarafdar@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aayannsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayannsh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aayansh tarafdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayansh tarafdar" height="30" width="40" /></a>
-<a href="https://instagram.com/ayannshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayannshh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aayanshh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aayanshh" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ayannshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayannshh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/seeuok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="seeuok" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rickyta2db0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rickyta2db0" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:aayanshtarafdar@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/aayansh-tarafdar-164825359/">LinkedIn</a> •
+  <a href="https://github.com/ayannshh">GitHub</a> •
+  <a href="https://ayannshh.github.io/Aayansh_portfolio/">Portfolio</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayannshh&show_icons=true&locale=en&layout=compact" alt="ayannshh" /></p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayannshh&show_icons=true&locale=en" alt="ayannshh" /></p>
+- Software Engineering Intern at **MyCBSEguide (Examin8)**
+- B.Tech CSE @ **Bennett University (2023–2027)**
+- Full-Stack Developer focused on **Node.js, Express.js, MongoDB, React**
+- Competitive Programmer with:
+  - ⭐ CodeChef 4★ (Max Rating: 1844)
+  - Specialist on Codeforces (Max Rating: 1458)
+  - 400+ LeetCode Problems Solved
+  - 1000+ DSA Problems Solved
+
+---
+
+## Experience
+
+### Software Engineering Intern | MyCBSEguide
+**June 2026 – Present**
+
+- Developed 3+ REST APIs using Node.js and Express.js
+- Reduced API response latency by 20%
+- Optimized MongoDB queries improving retrieval speed by 25%
+- Worked on production systems serving 12,000+ teachers
+
+### AI & Workflow Automation Freelancer | Scaler AI Lab
+**Dec 2025 – Jan 2026**
+
+- Built enterprise workflow automations
+- Tested integrations involving Jira, Google Workspace and Stripe
+- Performed 100+ QA simulations for workflow validation
+
+---
+
+## Featured Projects
+
+### ReelVault
+Full-stack movie & TV tracking platform.
+
+**Tech Stack:** Node.js, Express.js, MongoDB Atlas, EJS, Bootstrap
+
+Features:
+- Authentication with Passport.js
+- Watchlists and ratings
+- Episode progress tracking
+- Notes and reviews
+- Personalized dashboard
+
+🔗 Repo: https://github.com/ayannshh/ReelVault
+
+---
+
+### Finance Credit Follow-Up Email Agent
+
+AI-powered accounts receivable automation tool.
+
+**Tech Stack:** Python, Streamlit, Gemini API
+
+Features:
+- Invoice classification
+- AI-generated follow-up emails
+- CSV processing
+- Gmail integration
+- Audit logging
+
+🔗 Repo: https://github.com/ayannshh/finance-credit-followup-agent
+
+---
+
+### WonderLand
+
+Pinterest-style travel discovery platform.
+
+**Tech Stack:** Node.js, Express.js, MongoDB, FastAPI
+
+Features:
+- Destination discovery
+- Accommodation listings
+- Responsive UI
+- Image metadata management
+
+🔗 Repo: https://github.com/ayannshh/WonderLand
+
+---
+
+## Tech Stack
+
+### Languages
+C++ • Java • Python • JavaScript • SQL
+
+### Frontend
+React • HTML • CSS • Bootstrap • Tailwind CSS
+
+### Backend
+Node.js • Express.js • REST APIs • FastAPI
+
+### Databases
+MongoDB • MySQL
+
+### Tools
+Git • Docker • Kubernetes • Linux
+
+---
+
+## Competitive Programming
+
+- CodeChef: 4★ (1844)
+- Codeforces: Specialist (1458)
+- LeetCode: 400+ Problems
+- HackerRank: 5★ in Problem Solving, Python & C++
+- Rank 4 / 640+ teams in SIH Internal Hackathon
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayannshh&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayannshh&layout=compact&theme=github_dark" />
+</p>
