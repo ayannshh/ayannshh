@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aayansh Tarafdar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Software+Engineering;Full-Stack+Developer;Competitive+Programmer;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Competitive+Programmer;Building+Scalable+Applications" />
 </p>
 
 <p align="center">
