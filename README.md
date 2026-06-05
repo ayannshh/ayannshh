@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Software Engineering Intern @ MyCBSEguide <br>
+Software Engineering  @ MyCBSEguide <br>
 Full-Stack Developer • Competitive Programmer • CSE'27
 </p>
 
