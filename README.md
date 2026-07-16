@@ -62,11 +62,10 @@ MongoDB • MySQL
 Git • Docker • Kubernetes • Linux
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayannshh&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayannshh&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -74,13 +73,5 @@ Git • Docker • Kubernetes • Linux
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayannshh&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayannshh/ayannshh/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayannshh&layout=compact&theme=github_dark&hide_border=true" />
 </p>
