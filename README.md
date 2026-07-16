@@ -10,8 +10,8 @@ Full-Stack Developer • Competitive Programmer • CSE'27
 </p>
 
 <p align="center">
-<a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •
-<a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
+<a href="https://ayannshh.github.io/Aayansh_portfollio/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/aayansh-tarafdar-164825359/">LinkedIn</a> •
 <a href="mailto:aayanshtarafdar@gmail.com">Email</a>
 </p>
 
