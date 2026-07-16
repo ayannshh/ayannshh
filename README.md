@@ -70,7 +70,7 @@ Git • Docker • Kubernetes • Linux
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ayannshh&theme=github-dark&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ayannshh&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -82,5 +82,5 @@ Git • Docker • Kubernetes • Linux
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/ayannshh/ayannshh/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ayannshh/ayannshh/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
